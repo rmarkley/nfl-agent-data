@@ -58,7 +58,7 @@ def build():
                 lines.append(f"- {title} ({url})")
         lines.append("")
 
-    with open('data/weekly_digest.md', 'w') as f:
+    with open('weekly_digest.md', 'w') as f:
         f.write("\n".join(lines))
     print("Digest built: data/weekly_digest.md")
 
