@@ -1,0 +1,87 @@
+# NFL Weekly Digest — updated 2026-08-20 23:47 UTC
+
+## Pressure Tendencies (proxy for blitz aggression)
+
+| Team | Sack Rate | Pressure Rate |
+|---|---|---|
+| DEN | 0.093 | 0.293 |
+| CLE | 0.089 | 0.263 |
+| MIN | 0.089 | 0.26 |
+| LA | 0.063 | 0.224 |
+| ATL | 0.086 | 0.221 |
+| DET | 0.072 | 0.216 |
+| KC | 0.057 | 0.216 |
+| HOU | 0.076 | 0.215 |
+| LAC | 0.075 | 0.215 |
+| SEA | 0.065 | 0.213 |
+| PIT | 0.067 | 0.213 |
+| TEN | 0.066 | 0.211 |
+| NO | 0.076 | 0.209 |
+| PHI | 0.061 | 0.208 |
+| NE | 0.06 | 0.208 |
+| DAL | 0.052 | 0.206 |
+| GB | 0.052 | 0.205 |
+| BUF | 0.058 | 0.201 |
+| NYG | 0.058 | 0.197 |
+| WAS | 0.064 | 0.197 |
+| LV | 0.059 | 0.188 |
+| MIA | 0.062 | 0.182 |
+| CHI | 0.055 | 0.182 |
+| TB | 0.055 | 0.182 |
+| IND | 0.053 | 0.18 |
+| CIN | 0.055 | 0.177 |
+| BAL | 0.041 | 0.173 |
+| JAX | 0.042 | 0.161 |
+| ARI | 0.045 | 0.15 |
+| CAR | 0.049 | 0.142 |
+| NYJ | 0.042 | 0.137 |
+| SF | 0.032 | 0.116 |
+
+## Run Defense (front-7 strength)
+
+| Team | Avg Yards Allowed | Stuffed Rate |
+|---|---|---|
+| SEA | 3.43 | 0.22 |
+| HOU | 3.46 | 0.23 |
+| DEN | 3.52 | 0.22 |
+| JAX | 3.59 | 0.19 |
+| MIN | 3.72 | 0.23 |
+| KC | 3.74 | 0.2 |
+| IND | 3.76 | 0.21 |
+| NO | 3.79 | 0.21 |
+| NE | 3.81 | 0.22 |
+| LV | 3.89 | 0.23 |
+| LA | 3.91 | 0.17 |
+| GB | 3.97 | 0.18 |
+| LAC | 4.0 | 0.24 |
+| BAL | 4.02 | 0.2 |
+| TB | 4.03 | 0.25 |
+| PHI | 4.03 | 0.15 |
+| TEN | 4.11 | 0.22 |
+| CLE | 4.15 | 0.23 |
+| CAR | 4.22 | 0.16 |
+| SF | 4.22 | 0.21 |
+| PIT | 4.25 | 0.17 |
+| NYJ | 4.27 | 0.21 |
+| ATL | 4.27 | 0.18 |
+| DET | 4.38 | 0.16 |
+| MIA | 4.49 | 0.21 |
+| ARI | 4.51 | 0.19 |
+| DAL | 4.53 | 0.21 |
+| WAS | 4.59 | 0.17 |
+| CHI | 4.64 | 0.18 |
+| BUF | 4.86 | 0.2 |
+| CIN | 5.11 | 0.13 |
+| NYG | 5.27 | 0.21 |
+
+## Injuries
+
+
+## Adverse Media Scan
+
+**Tyreek Hill**
+- Tyreek Hill latest message should have NFL teams paying attention (https://arrowheadaddict.com/tyreek-hill-latest-message-should-have-nfl-teams-paying-attention)
+- Ex - Dolphins WR Tyreek Hill recovery update after knee injury (https://www.wpbf.com/article/tyreek-hill-knee-injury-recovery-update-miami-dolphins-left-leg/73251161)
+- Concerning update emerges on Tyreek Hill recovery (https://www.yardbarker.com/nfl/articles/concerning_update_emerges_on_tyreek_hills_recovery/s1_13132_43932200)
+- Analyst floats NFC East contender as landing spot for Tyreek Hill (https://www.yardbarker.com/nfl/articles/analyst_floats_nfc_east_contender_as_landing_spot_for_tyreek_hill/s1_13132_43969327)
+- Tyreek Hill injury update changes everything for two star receivers (https://www.yardbarker.com/nfl/articles/tyreek_hills_injury_update_changes_everything_for_two_star_receivers/s1_13132_44093742)
