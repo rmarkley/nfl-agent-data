@@ -49,6 +49,9 @@ def build():
 
     # --- Funnel flags (from fetch_funnel.py) ---
     add_table('data/raw/funnel_flags.csv', 'Defensive Funnel Flags', sort_by='funnel_flag', top_n=32)
+    add_table('data/raw/player_season_totals.csv', 'Player Season Totals', sort_by='fantasy_points_ppr', top_n=300)
+    add_table('data/raw/player_recent_form.csv', 'Player Recent Form (Last 3 Games)', sort_by='fantasy_points_ppr', top_n=300)
+    add_table('data/raw/waiver_candidates.csv', 'Waiver Wire Candidates (Hot Recent Form)', sort_by='fantasy_points_ppr_per_game', top_n=100)
 
     # --- Injuries (from fetch_espn.py) ---
     injuries = load_json('data/raw/injuries.json', {})
