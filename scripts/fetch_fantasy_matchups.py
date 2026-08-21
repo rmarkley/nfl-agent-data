@@ -61,10 +61,6 @@ if __name__ == "__main__":
     rush_def, pass_def = defense_strength_by_position(pbp)
 
     grid = build_schedule_matchup_grid(season, rush_def, pass_def)
-    grid.to_csv('data/raw/fantasy_matchup_grid.csv', index=False)
-
-    current_week = grid['week'].min()
-    upcoming = grid[(grid['week'] >= current_week) & (grid['week'] < current_week + 4)]
-    upcoming.to_csv('data/raw/fantasy_matchup_next4.csv', index=False)
+    grid.to_csv('data/raw/fantasy_matchup_full_season.csv', index=False)
 
     print("Fantasy matchup grid saved.")
