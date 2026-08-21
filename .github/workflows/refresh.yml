@@ -32,7 +32,7 @@ jobs:
           python scripts/fetch_fantasy_matchups.py || true
           python scripts/fetch_schedule_grid.py || true
           python scripts/fetch_funnel.py || true
-
+          python scripts/fetch_player_stats.py || true
       - name: Build digest
         run: python scripts/build_digest.py
 
