@@ -2,8 +2,8 @@ name: Refresh NFL Digest
 
 on:
   schedule:
-    - cron: '0 12 * * 2-6' # noon UTC, Tue-Sat
-  workflow_dispatch: # lets you trigger manually from the Actions tab
+    - cron: "0 12 * * 2-6"
+  workflow_dispatch:
 
 jobs:
   refresh:
@@ -14,7 +14,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -28,6 +28,10 @@ jobs:
           python scripts/fetch_espn.py || true
           python scripts/fetch_nextgen.py || true
           python scripts/fetch_news.py || true
+          python scripts/fetch_tactics.py || true
+          python scripts/fetch_fantasy_matchups.py || true
+          python scripts/fetch_schedule_grid.py || true
+          python scripts/fetch_funnel.py || true
 
       - name: Build digest
         run: python scripts/build_digest.py
