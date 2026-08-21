@@ -1,4 +1,4 @@
-# NFL Weekly Digest — updated 2026-08-20 23:47 UTC
+# NFL Weekly Digest — updated 2026-08-21 12:19 UTC
 
 ## Pressure Tendencies (proxy for blitz aggression)
 
@@ -80,8 +80,3 @@
 ## Adverse Media Scan
 
 **Tyreek Hill**
-- Tyreek Hill latest message should have NFL teams paying attention (https://arrowheadaddict.com/tyreek-hill-latest-message-should-have-nfl-teams-paying-attention)
-- Ex - Dolphins WR Tyreek Hill recovery update after knee injury (https://www.wpbf.com/article/tyreek-hill-knee-injury-recovery-update-miami-dolphins-left-leg/73251161)
-- Concerning update emerges on Tyreek Hill recovery (https://www.yardbarker.com/nfl/articles/concerning_update_emerges_on_tyreek_hills_recovery/s1_13132_43932200)
-- Analyst floats NFC East contender as landing spot for Tyreek Hill (https://www.yardbarker.com/nfl/articles/analyst_floats_nfc_east_contender_as_landing_spot_for_tyreek_hill/s1_13132_43969327)
-- Tyreek Hill injury update changes everything for two star receivers (https://www.yardbarker.com/nfl/articles/tyreek_hills_injury_update_changes_everything_for_two_star_receivers/s1_13132_44093742)
