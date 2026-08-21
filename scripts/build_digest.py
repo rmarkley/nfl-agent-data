@@ -44,7 +44,7 @@ def build():
     add_table('data/raw/rest_travel.csv', 'Rest Days by Matchup', top_n=32)
 
     # --- Fantasy matchup grid (from fetch_fantasy_matchups.py) ---
-add_table('data/raw/fantasy_matchup_full_season.csv', 'Fantasy: Matchup Ratings — Full Season (All 17 Weeks)', sort_by='week', ascending=True, top_n=600)    # --- Full season schedule grid (from fetch_schedule_grid.py) ---
+    add_table('data/raw/fantasy_matchup_full_season.csv', 'Fantasy: Matchup Ratings — Full Season (All 17 Weeks)', sort_by='week', ascending=True, top_n=600)    # --- Full season schedule grid (from fetch_schedule_grid.py) ---
     add_table('data/raw/schedule_grid.csv', 'Full Season Schedule Grid (32 Teams x 18 Weeks)', top_n=32)
 
     # --- Funnel flags (from fetch_funnel.py) ---
