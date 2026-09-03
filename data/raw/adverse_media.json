@@ -21,16 +21,6 @@
       "sourcecountry": "United States"
     },
     {
-      "url": "https://www.yardbarker.com/nfl/articles/concerning_update_emerges_on_tyreek_hills_recovery/s1_13132_43932200",
-      "url_mobile": "",
-      "title": "Concerning update emerges on Tyreek Hill recovery",
-      "seendate": "20260608T221500Z",
-      "socialimage": "https://www.yardbarker.com/media/b/3/b3722ba71b856151f7e249581564fdf04e0bb2eb/thumb_16x9/concerning-update-emerges-on-tyreek-hills-recovery.jpg?v=1",
-      "domain": "yardbarker.com",
-      "language": "English",
-      "sourcecountry": "United States"
-    },
-    {
       "url": "https://www.yardbarker.com/nfl/articles/analyst_floats_nfc_east_contender_as_landing_spot_for_tyreek_hill/s1_13132_43969327",
       "url_mobile": "",
       "title": "Analyst floats NFC East contender as landing spot for Tyreek Hill",
@@ -71,22 +61,22 @@
       "sourcecountry": "Canada"
     },
     {
-      "url": "https://www.yardbarker.com/nfl/articles/three_nfl_veterans_closer_to_retirement_than_you_may_think/s1_13132_44230833",
-      "url_mobile": "",
-      "title": "Three NFL veterans closer to retirement than you may think",
-      "seendate": "20260829T024500Z",
-      "socialimage": "https://www.yardbarker.com/media/f/6/f637d482ad77c2743d56b8ac6ea7b2e3f01c248c/thumb_16x9/three-nfl-veterans-closer-retirement-think.jpg?v=1",
-      "domain": "yardbarker.com",
-      "language": "English",
-      "sourcecountry": "United States"
-    },
-    {
       "url": "https://fansided.com/nfl/the-bills-need-to-sign-one-of-these-3-wide-receivers-with-keon-coleman-injured",
       "url_mobile": "",
       "title": "The Bills need to sign one of these 3 wide receivers with Keon Coleman injured",
       "seendate": "20260819T030000Z",
       "socialimage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_211,w_4753,h_2673/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/229/01m0axbqydrpd4dngmhc.jpg",
       "domain": "fansided.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.yardbarker.com/nfl/articles/three_nfl_veterans_closer_to_retirement_than_you_may_think/s1_13132_44230833",
+      "url_mobile": "",
+      "title": "Three NFL veterans closer to retirement than you may think",
+      "seendate": "20260829T024500Z",
+      "socialimage": "https://www.yardbarker.com/media/f/6/f637d482ad77c2743d56b8ac6ea7b2e3f01c248c/thumb_16x9/three-nfl-veterans-closer-retirement-think.jpg?v=1",
+      "domain": "yardbarker.com",
       "language": "English",
       "sourcecountry": "United States"
     },
@@ -191,12 +181,22 @@
       "sourcecountry": "United States"
     },
     {
-      "url": "https://www.thephinsider.com/miami-dolphins-news/119863/miami-dolphins-discussion-could-he-be-the-one",
+      "url": "https://fansided.com/nfl/chiefs-can-still-sign-these-wide-receivers-to-replace-rashee-rice-this-season-01kvp3pfya7j",
       "url_mobile": "",
-      "title": "Miami Dolphins Discussion : Could He Be The One",
-      "seendate": "20260607T013000Z",
-      "socialimage": "https://platform.thephinsider.com/wp-content/uploads/sites/164/2026/01/gettyimages-2253847657.jpg?quality=90&strip=all&crop=0%2C10.736005065231%2C100%2C78.527989869539",
-      "domain": "thephinsider.com",
+      "title": "Chiefs can still sign these wide receivers to replace Rashee Rice this season",
+      "seendate": "20260622T150000Z",
+      "socialimage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_1618,y_84,w_2999,h_1686/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/229/01kvp3rxxc0xw5wvaqj2.jpg",
+      "domain": "fansided.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://kckingdom.com/the-pressure-on-xavier-worthy-to-finally-produce-for-the-chiefs-has-never-been-higher-01m1hg78082g",
+      "url_mobile": "",
+      "title": "The pressure on Xavier Worthy to finally produce for the Chiefs has never been higher",
+      "seendate": "20260902T223000Z",
+      "socialimage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_124,y_280,w_3798,h_2136/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/220/01m1j0rnnpav0k2ayy9a.jpg",
+      "domain": "kckingdom.com",
       "language": "English",
       "sourcecountry": "United States"
     }
