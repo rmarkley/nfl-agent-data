@@ -1,4 +1,4 @@
-# NFL Weekly Digest — updated 2026-09-18 15:16 UTC
+# NFL Weekly Digest — updated 2026-09-19 14:53 UTC
 
 ## Pressure Tendencies (proxy for blitz aggression)
 
@@ -803,9 +803,3 @@
 
 ## Adverse Media Scan
 
-**Tyreek Hill**
-- Ex - Dolphins WR Tyreek Hill recovery update after knee injury (https://www.wpbf.com/article/tyreek-hill-knee-injury-recovery-update-miami-dolphins-left-leg/73251161)
-- Tyreek Hill injury update changes everything for two star receivers (https://www.yardbarker.com/nfl/articles/tyreek_hills_injury_update_changes_everything_for_two_star_receivers/s1_13132_44093742)
-- Tyreek Hill Next Team Market Flips Back Toward Retirement / Dolphins (https://www.si.com/prediction-markets/tyreek-hill-next-team-market-flips-back-toward-retirement-dolphins-01kysys9ss4k)
-- Rumors are intensifying about Tyreek Hill and Stefon Diggs (https://dose.ca/2026/07/31/rumors-are-intensifying-about-tyreek-hill-and-stefon-diggs/)
-- The Bills need to sign one of these 3 wide receivers with Keon Coleman injured (https://fansided.com/nfl/the-bills-need-to-sign-one-of-these-3-wide-receivers-with-keon-coleman-injured)
