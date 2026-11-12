@@ -1,4 +1,4 @@
-# NFL Weekly Digest — updated 2026-11-11 18:55 UTC
+# NFL Weekly Digest — updated 2026-11-12 19:14 UTC
 
 ## Pressure Tendencies (proxy for blitz aggression)
 
