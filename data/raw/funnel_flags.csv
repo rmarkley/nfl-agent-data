@@ -1,33 +1,33 @@
 team,rush_epa_allowed,pass_epa_allowed,rush_def_rank,pass_def_rank,funnel_flag
-KC,-0.042771257,-0.00038523783,12.0,15.0,Balanced/Strong (tough matchup both ways)
-SEA,-0.13547888,-0.11497221,1.0,6.0,Balanced/Strong (tough matchup both ways)
-PHI,-0.02770038,-0.10480218,14.0,8.0,Balanced/Strong (tough matchup both ways)
-NO,-0.0729153,-0.046065427,3.0,12.0,Balanced/Strong (tough matchup both ways)
-CLE,-0.053414233,-0.13150701,7.0,3.0,Balanced/Strong (tough matchup both ways)
-NE,-0.054599185,-0.116279975,6.0,5.0,Balanced/Strong (tough matchup both ways)
-DEN,-0.0276298,-0.11253958,15.0,7.0,Balanced/Strong (tough matchup both ways)
-MIN,-0.053173646,-0.14807673,8.0,2.0,Balanced/Strong (tough matchup both ways)
-HOU,-0.07706822,-0.21691673,2.0,1.0,Balanced/Strong (tough matchup both ways)
-LAC,-0.06512076,-0.08918674,5.0,10.0,Balanced/Strong (tough matchup both ways)
-LA,-0.046071753,-0.047212005,11.0,11.0,Balanced/Strong (tough matchup both ways)
-SF,0.021045841,0.10584542,23.0,24.0,Balanced/Weak (exploitable both ways)
-NYJ,0.03461652,0.25338385,26.0,32.0,Balanced/Weak (exploitable both ways)
-NYG,0.16655165,0.027858637,32.0,17.0,Balanced/Weak (exploitable both ways)
-MIA,0.04323063,0.12556486,27.0,26.0,Balanced/Weak (exploitable both ways)
-ARI,0.007978457,0.14990102,20.0,27.0,Balanced/Weak (exploitable both ways)
-DAL,0.09469445,0.22059008,31.0,31.0,Balanced/Weak (exploitable both ways)
-CIN,0.086885475,0.16470434,30.0,28.0,Balanced/Weak (exploitable both ways)
-CHI,-0.0012971165,0.056250043,19.0,19.0,Balanced/Weak (exploitable both ways)
-CAR,0.02803482,0.106448375,24.0,25.0,Balanced/Weak (exploitable both ways)
-TEN,0.016562793,0.16728815,22.0,29.0,Balanced/Weak (exploitable both ways)
-WAS,0.07487616,0.2008737,28.0,30.0,Balanced/Weak (exploitable both ways)
-IND,-0.049741566,0.039813988,10.0,18.0,"Pass Funnel (stops run, vulnerable to pass)"
-LV,-0.035881113,0.07690648,13.0,22.0,"Pass Funnel (stops run, vulnerable to pass)"
-GB,-0.026145145,0.09058949,16.0,23.0,"Pass Funnel (stops run, vulnerable to pass)"
-BAL,-0.052000653,0.07418562,9.0,21.0,"Pass Funnel (stops run, vulnerable to pass)"
-TB,-0.07239515,0.06803025,4.0,20.0,"Pass Funnel (stops run, vulnerable to pass)"
-JAX,-0.024846338,-0.11938765,17.0,4.0,"Run Funnel (stops pass, vulnerable to run)"
-DET,-0.0147586465,-0.006475979,18.0,14.0,"Run Funnel (stops pass, vulnerable to run)"
-BUF,0.08488003,-0.091388315,29.0,9.0,"Run Funnel (stops pass, vulnerable to run)"
-PIT,0.013145553,0.027543992,21.0,16.0,"Run Funnel (stops pass, vulnerable to run)"
-ATL,0.028343003,-0.02858824,25.0,13.0,"Run Funnel (stops pass, vulnerable to run)"
+KC,-0.029873889,0.010085115,12.0,15.0,Balanced/Strong (tough matchup both ways)
+SEA,-0.11162762,-0.080099694,1.0,7.0,Balanced/Strong (tough matchup both ways)
+NO,-0.057491746,-0.029963808,3.0,11.0,Balanced/Strong (tough matchup both ways)
+NE,-0.04614941,-0.082691565,6.0,6.0,Balanced/Strong (tough matchup both ways)
+CLE,-0.043072805,-0.09276842,7.0,3.0,Balanced/Strong (tough matchup both ways)
+MIN,-0.041147105,-0.11317054,8.0,2.0,Balanced/Strong (tough matchup both ways)
+DEN,-0.021381287,-0.08581874,13.0,5.0,Balanced/Strong (tough matchup both ways)
+LAC,-0.052528452,-0.063014954,4.0,9.0,Balanced/Strong (tough matchup both ways)
+HOU,-0.057755042,-0.16616689,2.0,1.0,Balanced/Strong (tough matchup both ways)
+LA,-0.0340315,-0.021069951,10.0,12.0,Balanced/Strong (tough matchup both ways)
+JAX,-0.014049774,-0.08891344,16.0,4.0,Balanced/Strong (tough matchup both ways)
+SF,0.02127411,0.09024336,25.0,24.0,Balanced/Weak (exploitable both ways)
+NYJ,0.03441514,0.21922086,26.0,32.0,Balanced/Weak (exploitable both ways)
+NYG,0.13873708,0.032513894,32.0,17.0,Balanced/Weak (exploitable both ways)
+MIA,0.04219918,0.11893591,27.0,26.0,Balanced/Weak (exploitable both ways)
+ARI,0.0063481433,0.13502641,20.0,27.0,Balanced/Weak (exploitable both ways)
+DAL,0.078819424,0.19339788,30.0,31.0,Balanced/Weak (exploitable both ways)
+CIN,0.07279935,0.15299238,29.0,29.0,Balanced/Weak (exploitable both ways)
+CHI,0.0002331255,0.06832811,19.0,22.0,Balanced/Weak (exploitable both ways)
+CAR,0.02020398,0.10002708,23.0,25.0,Balanced/Weak (exploitable both ways)
+TEN,0.011100602,0.14578438,21.0,28.0,Balanced/Weak (exploitable both ways)
+WAS,0.06011975,0.17148574,28.0,30.0,Balanced/Weak (exploitable both ways)
+IND,-0.031501397,0.040615376,11.0,18.0,"Pass Funnel (stops run, vulnerable to pass)"
+GB,-0.014998641,0.087601334,15.0,23.0,"Pass Funnel (stops run, vulnerable to pass)"
+LV,-0.019382415,0.06575174,14.0,19.0,"Pass Funnel (stops run, vulnerable to pass)"
+BAL,-0.04044151,0.065780684,9.0,20.0,"Pass Funnel (stops run, vulnerable to pass)"
+TB,-0.05092022,0.06825387,5.0,21.0,"Pass Funnel (stops run, vulnerable to pass)"
+DET,-0.005604472,0.0052026734,18.0,14.0,"Run Funnel (stops pass, vulnerable to run)"
+BUF,0.08306391,-0.060948677,31.0,10.0,"Run Funnel (stops pass, vulnerable to run)"
+PHI,-0.012886968,-0.07661507,17.0,8.0,"Run Funnel (stops pass, vulnerable to run)"
+PIT,0.014707992,0.029374367,22.0,16.0,"Run Funnel (stops pass, vulnerable to run)"
+ATL,0.020620316,-0.0080701355,24.0,13.0,"Run Funnel (stops pass, vulnerable to run)"
