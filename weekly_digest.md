@@ -1,4 +1,4 @@
-# NFL Weekly Digest — updated 2026-11-19 19:39 UTC
+# NFL Weekly Digest — updated 2026-11-20 19:18 UTC
 
 ## Pressure Tendencies (proxy for blitz aggression)
 
@@ -803,3 +803,9 @@
 
 ## Adverse Media Scan
 
+**Tyreek Hill**
+- Cops Holding Contest To See Who Can Pull Over The Most Black People Surely The Result Of A Bunch Of Bad Apples (https://www.jalopnik.com/2287808/cops-holding-contest-who-can-pull-over-most-black-people/)
+- Tyreek Hill continues to look like an obvious fit for Chiefs reunion (https://arrowheadaddict.com/tyreek-hill-continues-to-look-like-an-obvious-fit-for-chiefs-reunion)
+- Is Tyreek Hill Headed to the Patriots ?  (https://dose.ca/2026/10/01/is-tyreek-hill-headed-to-the-patriots/)
+- Three NFL veterans closer to retirement than you may think (https://www.yardbarker.com/nfl/articles/three_nfl_veterans_closer_to_retirement_than_you_may_think/s1_13132_44230833)
+- Tyreek Hill Hints At Cold Weather Move In Cryptic Tweet (https://cnynews.com/ixp/10/p/tyreek-hill-cold-weather/)
